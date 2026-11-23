@@ -1,4 +1,4 @@
-k⁹<h1 align="center">Hi, I'm Mohit</h1>
+<h1 align="center">Hi, I'm Mohit</h1>
 
 <h3 align="center">Frontend Developer | React, TypeScript, Tailwind CSS</h3>
 
