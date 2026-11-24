@@ -72,7 +72,7 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 - Git and GitHub
 - Wordpress
 - Vite
-- npm 
+
 - Figma
 - Chrome DevTools
 - Postman
