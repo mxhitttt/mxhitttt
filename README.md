@@ -44,7 +44,6 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 <td valign="top" width="33%">
 
 **Frontend**
-- CSS3 (Flexbox, Grid, Animations)
 - JavaScript (ES6+)
 - TypeScript
 - React.js
