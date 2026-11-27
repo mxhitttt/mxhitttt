@@ -53,8 +53,7 @@ My focus: pixel-perfect UI, reusable component architecture, Core Web Vitals and
 </td>
 <td valign="top" width="33%">
 
-**Libraries and Concepts**
-- Next.js (basics)
+**Libraries and Concepts*
 - React Router
 - Redux Toolkit / Zustand
 - React Query
